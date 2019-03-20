@@ -44,7 +44,8 @@ int main()
     Stack obj;
     obj.push(4);
     obj.push(6);
-
+    obj.push(12);
+    obj.push(15);
     obj.pop();
     obj.pop();
     obj.pop();
